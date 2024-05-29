@@ -1,0 +1,22 @@
+/* Primary Button Color */
+.btn-primary {
+    background-color: #ff0000 !important; /* Replace with your desired color */
+    border-color: #ff0000 !important; /* Replace with your desired color */
+}
+
+/* Secondary Button Color */
+.btn-secondary {
+    background-color: #00ff00 !important; /* Replace with your desired color */
+    border-color: #00ff00 !important; /* Replace with your desired color */
+}
+
+/* Optional: Hover Effects */
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #960000 !important; /* Replace with your desired hover color */
+    border-color: #960000 !important; /* Replace with your desired hover color */
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
+    background-color: #d0acac !important; /* Replace with your desired hover color */
+    border-color: #d0acac !important; /* Replace with your desired hover color */
+}
